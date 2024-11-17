@@ -66,5 +66,7 @@ public class JenkinsTest {
 	}
 
 	@Test
-	void Test16(){assertTrue(true);}
+	void Test16() { assertTrue(true); }
+	@Test
+	void Test17() { assertTrue(true);}
 }
