@@ -73,9 +73,4 @@ public class JenkinsTest {
 	void Test17() { assertTrue(true);}
 	@Test
 	void Test18() { assertTrue(true);}
-	//@Test
-	//void Test19() { assertTrue(true);}
-	//@Test
-	//void Test20() { assertTrue(true);}
-
 }
